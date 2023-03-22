@@ -8,7 +8,7 @@ Gain the essential skills to build an embedded system using this practical 'lear
 
 ## [Download chapters 7-12 here](https://github.com/arm-university/A-Guide-to-Designing-Embedded-System-Applications-on-Arm-Cortex-M-Microcontrollers/blob/main/ch7-12_Beg.%20Guide%20to%20Designing%20Embedded%20System%20Applications%20on%20Arm%20Cortex-M%20Microcontrollers.pdf)
 
-## Resource Aim
+## About this Book
 This textbook is the perfect introduction for the beginner looking to enter the exciting world of embedded devices and IoT. Over the course of twelve chapters, readers will gain the practical skills needed to build a fully functional smart home device featuring a fire alarm, motion detector and security sensor.
 
 No prior knowledge of programming or electronics is assumed as the authors have adopted a 'learn-by-doing' approach. Basic ideas are explained and then demonstrated by means of examples that progressively introduce the fundamental concepts, techniques, and tools of embedded system design. All exercises are based on the ST Nucleo-F429ZI board, so readers can gain experience in implementing these key concepts on an industry-relevant Arm-based microcontroller.
