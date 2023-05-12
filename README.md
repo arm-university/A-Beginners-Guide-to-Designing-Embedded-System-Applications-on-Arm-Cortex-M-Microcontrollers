@@ -4,7 +4,7 @@ Textbook by Ariel Lutenberg, Pablo Gomez & Eric Pernia
 
 Gain the essential skills to build an embedded system using this practical 'learn by doing' textbook.
 
-## [Download chapters 1-6 here](https://github.com/arm-university/A-Guide-to-Designing-Embedded-System-Applications-on-Arm-Cortex-M-Microcontrollers/blob/main/ch1-6_Beg.%20Guide%20to%20Designing%20Embedded%20System%20Applications%20on%20Arm%20Cortex-M%20Microcontrollers.pdf)
+## [Download chapters 1-6 here](https://github.com/arm-university/A-Guide-to-Designing-Embedded-System-Applications-on-Arm-Cortex-M-Microcontrollers/blob/main/ch1-6_Beg.%20Guide%20to%20Designing%20Embedded%20System%20Applications_textbook.pdf)
 
 ## [Download chapters 7-12 here](https://github.com/arm-university/A-Guide-to-Designing-Embedded-System-Applications-on-Arm-Cortex-M-Microcontrollers/blob/main/ch7-12_Beg.%20Guide%20to%20Designing%20Embedded%20System%20Applications%20on%20Arm%20Cortex-M%20Microcontrollers.pdf)
 
