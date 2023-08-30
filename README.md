@@ -13,7 +13,9 @@ This textbook is the perfect introduction for the beginner looking to enter the 
 
 No prior knowledge of programming or electronics is assumed as the authors have adopted a 'learn-by-doing' approach. Basic ideas are explained and then demonstrated by means of examples that progressively introduce the fundamental concepts, techniques, and tools of embedded system design. All exercises are based on the ST Nucleo-F429ZI board, so readers can gain experience in implementing these key concepts on an industry-relevant Arm-based microcontroller.
 
-For educators looking to adopt this textbook, the authors have conveniently organized the book to align with a typical twelve-week semester, the idea being that one chapter can be addressed each week. .
+For educators looking to adopt this textbook, the authors have conveniently organized the book to align with a typical twelve-week semester, the idea being that one chapter can be addressed each week. 
+
+Additional projects and resources for this textbook can be found [here](https://github.com/armBookCodeExamples/Directory/blob/main/README.md).
 
 ## Table of Contents:
 1.	Introduction to Embedded Systems
